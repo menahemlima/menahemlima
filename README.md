@@ -49,16 +49,22 @@ Atuo como QA e sou apaixonado por caçar bugs, colaborar com o time e buscar con
 <img src="https://img.shields.io/badge/GitLab-FFA500?style=for-the-badge&logo=GitLab&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-363636?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bitbucket-20B2AA?style=for-the-badge&logo=Bitbucket&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20Test%20Plans-4169E1?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 
-### 🗄️ Banco de Dados & Mensageria
+
+### 🗄️ Banco de Dados
 <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=black"/>
 <img src="https://img.shields.io/badge/MongoDB-32CD32?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4682B4?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-8B4513?style=for-the-badge&logo=sql-server&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-87CEFA?style=for-the-badge&logo=docker&logoColor=black"/>
+
+###  📧 Mensageria
 <img src="https://img.shields.io/badge/Grafana-4B0082?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FFA500?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+
+###  📧 Gestão de testes
+<img src="https://img.shields.io/badge/jira-1E90FF?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge"/>
+<img src="https://img.shields.io/badge/Azure%20Test%20Plans-4169E1?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 
 </div>
 
