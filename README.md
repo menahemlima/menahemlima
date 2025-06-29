@@ -42,23 +42,23 @@
 <img src="https://img.shields.io/badge/Cucumber-9ACD32?style=for-the-badge&logo=cucumber&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gherkin-FFD700?style=for-the-badge&logo=gherkin&logoColor=white"/>
 <img src="https://img.shields.io/badge/JUnit-FFFF00?style=for-the-badge&logo=junit&logoColor=white"/>
+<img src="https://img.shields.io/badge/testng-836FFF?style=for-the-badge&logo=testng">
 <img src="https://img.shields.io/badge/Maven-FF6347?style=for-the-badge&logo=apache&logoColor=white"/>
 
 ### 🔧 DevOps & Versioning
 <img src="https://img.shields.io/badge/Jenkins-B22222?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-87CEFA?style=for-the-badge&logo=docker&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitLab-FFA500?style=for-the-badge&logo=GitLab&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-363636?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bitbucket-20B2AA?style=for-the-badge&logo=Bitbucket&logoColor=white"/>
-
 
 ### 🗄️ Database
 <img src="https://img.shields.io/badge/MySQL-00BFFF?style=for-the-badge&logo=mysql&logoColor=black"/>
 <img src="https://img.shields.io/badge/MongoDB-32CD32?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4682B4?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-8B4513?style=for-the-badge&logo=sql-server&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-87CEFA?style=for-the-badge&logo=docker&logoColor=black"/>
 
-###  📧 Messaging
+###  📧 Logs and messaging
 <img src="https://img.shields.io/badge/Grafana-4B0082?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FFA500?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 
